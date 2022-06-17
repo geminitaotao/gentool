@@ -13,7 +13,7 @@
 
     <properties>
         <geoip2.version>2.12.0</geoip2.version>
-        <fastjson.version>1.2.52</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <slf4j.version>1.7.25</slf4j.version>
     </properties>
 
